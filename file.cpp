@@ -1,1 +1,3 @@
-cout<<"hello world"
+#include<iostream>
+
+std::cout<<"hello world";
